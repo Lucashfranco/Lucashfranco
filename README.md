@@ -1,6 +1,8 @@
-Olá!, eu sou o Lucas Franco
+<h1> Olá!, eu sou o Lucas Franco </h1>
 
-- 🌱 Estudando JavaScript, HTML e CSS
+☕ 
+  
+ <h3> Estudando atualmente JavaScript, HTML e CSS </h3>
 
 <div align="center">
   <a href="https://github.com/Lucashfranco">
