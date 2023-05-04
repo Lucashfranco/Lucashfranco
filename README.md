@@ -2,7 +2,7 @@
 
 ☕ 
   
- <h3> Estudando atualmente JavaScript, HTML e CSS </h3>
+ <h3> Estudando atualmente React </h3>
 
 <div align="center">
   <a href="https://github.com/Lucashfranco">
