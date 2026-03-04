@@ -4,8 +4,7 @@ src="https://raw.githubusercontent.com/gist/Lucashfranco/a2ff5962719663c48148cfe
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Franco</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucashfranco&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front End Web Developer
-
+- 🔥 Backend Java Developer
 - 🔭 I’m currently working at ...
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
