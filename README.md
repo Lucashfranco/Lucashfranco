@@ -1,4 +1,4 @@
-<img align="right" height="590cm"
+<img align="right" height= "590cm"
 src="https://raw.githubusercontent.com/gist/Lucashfranco/a2ff5962719663c48148cfe0f4657d78/raw/6ee32e6e5f16d5768e9a68c866079d37d2b78332/githubcard1.svg"/>
 
 <h1 align="left">
@@ -58,8 +58,8 @@ Currently working on:
 ## ⚙️ GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucashfranco&show_icons=true&theme=vision-friendly-dark" alt="lucashfranco stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashfranco&layout=compact&theme=vision-friendly-dark" alt="lucashfranco languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucashfranco&show_icons=true&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashfranco&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
 ---
