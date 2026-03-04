@@ -1,5 +1,4 @@
-<img align="right" height= "590cm"
-src="https://raw.githubusercontent.com/gist/Lucashfranco/a2ff5962719663c48148cfe0f4657d78/raw/6ee32e6e5f16d5768e9a68c866079d37d2b78332/githubcard1.svg"/>
+
 
 <h1 align="left">
 Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Franco
