@@ -51,16 +51,6 @@ Currently working on:
 - Java REST API with Spring Boot
 - CRUD system with database integration
 - Backend architecture with Service / Repository pattern
-
----
-
-## ⚙️ GitHub Analytics
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucashfranco&show_icons=true&theme=vision-friendly-dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashfranco&layout=compact&theme=vision-friendly-dark"/>
-</p>
-
 ---
 
 ## 📬 Contact
